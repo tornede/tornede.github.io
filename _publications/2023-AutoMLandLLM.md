@@ -4,7 +4,7 @@ author: "Alexander Tornede, Difan Deng, Theresa Eimer, Joseph Giovanelli, Aditya
 permalink: /publication/2023-AutoMLandLLM
 collection: publications
 date: 2023-06-13
-venue: "arXiv [cs.LG]"
+venue: "arXiv:2306.08107 [cs.LG]"
 arxiv: "https://arxiv.org/abs/2306.08107"
 paperurl: 
 code: 
